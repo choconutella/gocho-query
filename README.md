@@ -1,4 +1,4 @@
-# Query Package
+# gocho-query
 
 This Go package provides functionality for executing database queries and mapping the results to a 2D slice. It is designed to work with the `database/sql` package and allows you to retrieve rows from a database and store them in a format that is easy to process.
 
